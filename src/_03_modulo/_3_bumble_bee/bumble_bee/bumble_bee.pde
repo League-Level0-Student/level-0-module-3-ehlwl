@@ -15,7 +15,9 @@ void draw() {
 (see the image on the recipe, it's a diagonal line of circles)
 Use modulo to make the colors alternate between yellow and black
 */
-
+for(int i=10;i>0;i--){
+ if 
+}
 
 
 /*
